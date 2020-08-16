@@ -1,0 +1,8 @@
+{
+  "login":{"data": {"id": 500, "rid": 0, "username": "admin", "mobile": "13718940015", "email": "1172366686@qq.com", "token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjUwMCwicmlkIjowLCJpYXQiOjE1OTY4NTI5MTMsImV4cCI6MTU5NjkzOTMxM30.2k4zA4lFSXQ1YeaibPL0K7w9SUo0W2XCnfG862QT6t4"}, "meta": {"msg": "登录成功", "status": 200}},
+  "login_error":{"data":null,"meta":{"msg":"密码错误","status":400}},
+  "users": {"data":{"total":9,"pagenum":1,"users":[{"id":943,"role_name":"超级管理员","username":"1231","create_time":1596206608,"mobile":"","email":"","mg_state":true}]},"meta":{"msg":"获取管理员列表成功","status":200}},
+  "categories": {"data":{"cat_id":1808,"cat_name":"芒果","cat_pid":"1","cat_level":"2","cat_deleted":false},"meta":{"msg":"创建成功","status":201}}
+
+
+}

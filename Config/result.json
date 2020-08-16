@@ -1,0 +1,54 @@
+{
+  "users":[
+  {"success":
+    {"data": {
+        "total": 9,
+        "pagenum": 1,
+        "users": [
+            {
+                "id": 943,
+                "role_name": "超级管理员",
+                "username": "1231",
+                "create_time": 1596206608,
+                "mobile": "",
+                "email": "",
+                "mg_state": true
+            }
+        ]
+    },
+    "meta": {
+        "msg": "获取管理员列表成功",
+        "status": 200
+    }}
+}],
+
+  "categories":[{"success":
+	{"data": {
+		"cat_id": 1825,
+		"cat_name": "橘子",
+		"cat_level": "2",
+		"cat_deleted": false
+	},
+	"meta": {
+		"msg": "'创建成功",
+		"status": 201
+	}}
+}],
+  "categories1": [{"success1":
+	{"data": {
+		"cat_id": 1810,
+		"cat_name": "橘子",
+		"cat_pid": null,
+		"cat_level": 2,
+		"cat_deleted": false
+	},
+	"meta": {
+		"msg":" '获取成功'",
+		"status": 200
+	}}
+}]
+
+}
+
+
+
