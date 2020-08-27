@@ -21,5 +21,5 @@
 
 **testCase**存放用例集
 
-**具体详情**[Unittest接口自动化框架](https://www.jianshu.com/p/308dad38236b)
+**具体详情**[pyapiservice开源自动化框架](https://www.jianshu.com/p/308dad38236b)
 
